@@ -1,4 +1,4 @@
-# 💫About Me :
+# About Me :
 I,m currently pursuing my master's degree in computer science
 
 
