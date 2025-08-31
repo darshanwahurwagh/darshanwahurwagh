@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="center">SKILLS</h4>
+<h4 align="center"> <strong>SKILLS</strong></h4>
 
 ###
 
